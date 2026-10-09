@@ -1,0 +1,33 @@
+LUMORA LABS - INFORMATION SECURITY POLICY (SUMMARY)
+
+Fictional sample document created for the docsearch-ai-rag demo.
+
+1. PASSWORDS AND AUTHENTICATION
+
+Passwords must be at least 14 characters long. Password reuse across company systems is not allowed. All employees must store credentials in the company password manager.
+
+Multi-factor authentication is mandatory for email, source control, the cloud console and the HR portal. Hardware security keys are required for engineers with production access.
+
+2. DEVICES
+
+Company laptops must have full-disk encryption enabled and must lock automatically after 5 minutes of inactivity. Operating system security updates must be installed within 7 days of release.
+
+Personal devices may access company email only through the approved mobile management app. Personal devices may not store customer data.
+
+3. DATA CLASSIFICATION
+
+Data is classified as Public, Internal, Confidential or Restricted. Customer payment data and personal identification data are Restricted. Restricted data may only be stored in approved production systems and must be encrypted at rest with AES-256.
+
+Confidential and Restricted data must never be pasted into external AI tools that are not approved by the security team.
+
+4. ACCESS CONTROL
+
+Access is granted on a least-privilege basis and reviewed every quarter by system owners. Production access requires approval from the engineering manager and the security team and expires automatically after 90 days unless renewed.
+
+5. INCIDENT REPORTING
+
+Suspected security incidents, including phishing emails, lost devices and leaked credentials, must be reported to the security team within 1 hour through the #security-incidents channel or by email to the security on-call. Do not try to investigate an incident on your own.
+
+6. SECURITY TRAINING
+
+All employees complete security awareness training during onboarding and then once per year. Engineers also complete secure coding training every year.

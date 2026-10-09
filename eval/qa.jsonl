@@ -1,0 +1,37 @@
+{"id": "hb-01", "question": "How many vacation days do full-time employees get each year?", "doc_id": "employee-handbook", "evidence": "22 days of paid vacation"}
+{"id": "hb-02", "question": "Can I carry unused vacation over to next year?", "doc_id": "employee-handbook", "evidence": "Up to 5 unused vacation days can be carried over"}
+{"id": "hb-03", "question": "How far in advance must I request a week off?", "doc_id": "employee-handbook", "evidence": "at least 10 business days in advance"}
+{"id": "hb-04", "question": "When do I need a doctor's note for sick leave?", "doc_id": "employee-handbook", "evidence": "medical certificate is required"}
+{"id": "hb-05", "question": "How long is parental leave for the primary caregiver?", "doc_id": "employee-handbook", "evidence": "16 weeks of fully paid parental leave"}
+{"id": "hb-06", "question": "What is the yearly learning and training budget?", "doc_id": "employee-handbook", "evidence": "annual learning budget of USD 1,500"}
+{"id": "hb-07", "question": "What are the core collaboration hours?", "doc_id": "employee-handbook", "evidence": "10:00 to 15:00"}
+{"id": "hb-08", "question": "How many days per week do hybrid employees go to the office?", "doc_id": "employee-handbook", "evidence": "on site two days per week"}
+{"id": "hb-09", "question": "How long can I work from another country?", "doc_id": "employee-handbook", "evidence": "up to 30 calendar days per year"}
+{"id": "hb-10", "question": "What is the deadline to submit business expenses?", "doc_id": "employee-handbook", "evidence": "within 30 days with an itemized receipt"}
+{"id": "hb-11", "question": "Can I fly premium economy on long flights?", "doc_id": "employee-handbook", "evidence": "premium economy may be booked"}
+{"id": "hb-12", "question": "When are performance reviews held?", "doc_id": "employee-handbook", "evidence": "twice a year, in June and December"}
+{"id": "hb-13", "question": "What is the notice period for managers who resign?", "doc_id": "employee-handbook", "evidence": "60 days for managers"}
+{"id": "hb-14", "question": "Do remote employees get money for internet?", "doc_id": "employee-handbook", "evidence": "monthly internet allowance of USD 40"}
+{"id": "hb-15", "question": "When can I apply for an internal transfer?", "doc_id": "employee-handbook", "evidence": "after 12 months in their current position"}
+{"id": "faq-01", "question": "How long does business verification take before going live?", "doc_id": "product-faq", "evidence": "usually takes 2 to 3 business days"}
+{"id": "faq-02", "question": "What is the fee for a domestic card payment?", "doc_id": "product-faq", "evidence": "2.9% + USD 0.30"}
+{"id": "faq-03", "question": "Are there monthly or setup fees?", "doc_id": "product-faq", "evidence": "no setup fees and no monthly fees"}
+{"id": "faq-04", "question": "How quickly do payouts reach my bank account?", "doc_id": "product-faq", "evidence": "2 business days after the payment is captured"}
+{"id": "faq-05", "question": "How much does a chargeback cost the merchant?", "doc_id": "product-faq", "evidence": "USD 15 dispute fee"}
+{"id": "faq-06", "question": "What is the API rate limit in production?", "doc_id": "product-faq", "evidence": "100 requests per second"}
+{"id": "faq-07", "question": "How are webhook requests signed?", "doc_id": "product-faq", "evidence": "HMAC-SHA256"}
+{"id": "faq-08", "question": "How do I prevent charging a customer twice when retrying?", "doc_id": "product-faq", "evidence": "Idempotency-Key"}
+{"id": "faq-09", "question": "Which currencies can payouts be made in?", "doc_id": "product-faq", "evidence": "USD, EUR, MXN, COP and BRL"}
+{"id": "faq-10", "question": "Is the platform PCI compliant?", "doc_id": "product-faq", "evidence": "PCI DSS Level 1"}
+{"id": "faq-11", "question": "How can test API keys be recognized?", "doc_id": "product-faq", "evidence": "sk_test_"}
+{"id": "faq-12", "question": "Do I get the processing fee back when I refund a customer?", "doc_id": "product-faq", "evidence": "original processing fee is not returned"}
+{"id": "sec-01", "question": "What is the minimum password length?", "doc_id": "it-security-policy", "evidence": "at least 14 characters"}
+{"id": "sec-02", "question": "Which systems require multi-factor authentication?", "doc_id": "it-security-policy", "evidence": "Multi-factor authentication is mandatory"}
+{"id": "sec-03", "question": "How fast must a phishing email be reported?", "doc_id": "it-security-policy", "evidence": "within 1 hour"}
+{"id": "sec-04", "question": "Can I paste confidential data into an external AI tool?", "doc_id": "it-security-policy", "evidence": "must never be pasted into external AI tools"}
+{"id": "sec-05", "question": "When does production access expire?", "doc_id": "it-security-policy", "evidence": "expires automatically after 90 days"}
+{"id": "sec-06", "question": "After how many minutes must a laptop lock automatically?", "doc_id": "it-security-policy", "evidence": "after 5 minutes of inactivity"}
+{"id": "oos-01", "question": "What is the capital city of Australia?", "doc_id": null, "evidence": null}
+{"id": "oos-02", "question": "Who won the football world cup in 1986?", "doc_id": null, "evidence": null}
+{"id": "oos-03", "question": "Give me a recipe for chocolate brownies.", "doc_id": null, "evidence": null}
+{"id": "oos-04", "question": "What's the weather forecast for tomorrow in Quito?", "doc_id": null, "evidence": null}
